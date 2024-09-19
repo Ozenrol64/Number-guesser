@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 10px;
+    background-color: #222326;
+    color: white;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+form {
+    font-size: 20px;
+}
+
+#numberInput {
+    background-color: #000000;
+    color: white;
+}
+
+button {
+    background-color: white;
+   color: black;
+}
+
+div {
+    font-size: 20px;
+}
